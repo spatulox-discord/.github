@@ -4,5 +4,5 @@
 
 Purpose
 This repo groups:
-    - My custom framework you can use.
-    - Some bots (may be ?)
+- My custom framework you can use.
+- Some bots (may be ?)
